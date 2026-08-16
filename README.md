@@ -29,6 +29,8 @@
 
 **技术亮点**：Vibe Coding · 前端降级探测 · Prompt 数据治理 · 产品经理思维从 0→1 落地
 
+🧭 [产品架构图](./mars-archive/docs/火星档案馆-产品架构图.png) · 📖 [完整 PRD](./mars-archive/docs/PRD.md)
+
 ---
 
 ## 📖 完整产品需求文档（PRD）
