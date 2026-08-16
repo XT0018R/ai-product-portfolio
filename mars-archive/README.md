@@ -4,6 +4,10 @@
 
 🔗 在线 Demo：https://c6490011b9854bdcbd240c1c84892717.gz2.agentos-app.net
 
+## 产品文档
+
+📄 **[完整 PRD](./docs/PRD.md)** — 火星档案馆产品需求文档 v1.0（背景 / 用户洞察 / 功能架构 / 关键决策 / 演进复盘）
+
 ## 产品截图
 
 > 项目已上线运行，87 场 / 24 城 / 20 省真实数据，手机可访问。
@@ -66,25 +70,22 @@ mars-archive/
 ├── index.html        ← 项目主页面（作品集提取）
 ├── README.md         ← 本文件
 ├── .env.example      ← 环境变量示例
-└── docs/             ← 产品文档（建议，见下）
+└── docs/
+    └── PRD.md        ← 产品需求文档
 ```
 
 ## 产品文档
 
-目前仓库内**还没有** PRD 与 Xmind 导出图。建议按以下方式补充：
+目前仓库已包含 PRD：
+- [PRD.md](./docs/PRD.md) — 火星档案馆产品需求文档 v1.0（背景 / 用户洞察 / 功能架构 / 关键决策 / 演进复盘）
 
-- 建议路径：把 PRD 与 Xmind 导出图放到 `mars-archive/docs/` 下，例如：
-  - `mars-archive/docs/PRD.md`
-  - `mars-archive/docs/产品架构图.png`
-  - `mars-archive/docs/信息架构图.png`
-- 建议把 `.xmind` 源文件**导出成 PNG / PDF** 再放进仓库，这样别人在 GitHub 上可以直接预览，无需安装 XMind。
-- 如果你有 PRD / Xmind 文件，可以直接上传到本目录，或告诉我路径，我来帮你整理提交。
+如需补充 Xmind 导出图，建议导出为 PNG/PDF 放到 `docs/` 下，GitHub 上可直接预览。
 
 ## 待改进（Roadmap）
 
 - [ ] 补充首屏实拍截图与回忆墙交互截图
 - [ ] 补充脱敏后的数据结构示例（JSON 样本）
-- [ ] 补充 PRD 与 Xmind 导出图到 `docs/`
+- [ ] 补充 Xmind 导出图（产品架构图 / 信息架构图）到 `docs/`
 - [ ] 补充完整业务代码
 
 ## License

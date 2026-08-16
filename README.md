@@ -11,6 +11,7 @@
 ### 1. 🚀 火星档案馆 · mars-archive
 演唱会数据产品 + UGC 回忆墙，87 场数据已结构化上线，手机可访问。
 > 技术亮点：Vibe Coding · 前端降级探测 · 数据产品思维
+> 📄 [完整 PRD](./mars-archive/docs/PRD.md)
 
 ### 2. 💬 AI 虚拟学长 · ai-virtual-senior
 21 个专业独立 system prompt + SSE 流式对话，用 DeepSeek API 从 0 搭建。
