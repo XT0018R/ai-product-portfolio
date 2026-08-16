@@ -4,6 +4,14 @@
 
 🔗 在线 Demo：https://12c0bda130b64a6aa6cd44bd7fcd38bf.bj8.agentos-app.net/ai-senior-chatbot.html
 
+📄 [精简 PRD](./docs/精简PRD.md)
+
+## 🧭 架构图
+
+![AI虚拟学长-架构图](./docs/架构图.png)
+
+> 信息架构（专业选择页 / 对话界面 / 对比卡·雷达图 / 快捷问题库）+ 技术架构（静态前端 → DeepSeek API → 流式渲染）。点击放大查看。
+
 ## 产品截图
 
 > 项目为「可感可视化大学专业体验馆」的 AI 对话模块，覆盖 21 个专业 / 6 大专业大类 / 105 个快捷问题。
