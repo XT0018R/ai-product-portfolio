@@ -29,7 +29,13 @@
 
 **技术亮点**：Vibe Coding · 前端降级探测 · Prompt 数据治理 · 产品经理思维从 0→1 落地
 
-🧭 [产品架构图](./mars-archive/docs/火星档案馆-产品架构图.png) · 📖 [完整 PRD](./mars-archive/docs/PRD.md)
+### 🧭 产品架构图
+
+![火星档案馆-产品架构图](./mars-archive/docs/火星档案馆-产品架构图.png)
+
+> 产品 5 大模块（演唱会档案、足迹地图、回忆墙 UGC、我的火星、数据底座）+ 贯穿设计原则。点击放大查看。
+
+📖 [完整 PRD](./mars-archive/docs/PRD.md)
 
 ---
 
